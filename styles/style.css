@@ -24,7 +24,7 @@ body {
 }
 
 .card.turned {
-  pointer-events: none;
+  pointer-events:none
 }
 
 .card.turned .front {
@@ -53,7 +53,7 @@ body {
   left: 0;
   top: 0;
   transform: rotateY(-180deg) translateZ(1px);
-  backface-visibility: hidden;
+  backface-visibility:hidden
 }
 
 #score {
